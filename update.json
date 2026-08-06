@@ -1,12 +1,12 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2-debug",
-  "downloadUrl": "https://github.com/TheMagin/driver-finance-releases/releases/download/v1.0.2/driverfinance-1.0.2-debug.apk",
+  "versionCode": 5,
+  "versionName": "1.0.4-debug",
+  "downloadUrl": "https://github.com/TheMagin/driver-finance-releases/releases/download/v1.0.4/driverfinance-1.0.4-debug.apk",
   "sizeBytes": 16040024,
-  "sha256": "e793e29a8e02c7512d79f6e74a90e71aabbf32e9219728593a0b402954a8e679",
+  "sha256": "3c590d95bd4db16e271e1ee6ef53afbccc296d1bb8e3024c3198e040f6948537",
   "minSdk": 26,
   "releaseNotes": {
-    "es": "Prueba del canal de actualización. Para comprobar que se instaló: Ajustes → Acerca de → Versión.",
-    "en": "Update-channel test. To check it installed: Settings → About → Version."
+    "es": "Arregla el cierre de la app al descargar una actualización. Para comprobar que se instaló: Ajustes → Acerca de → Versión.",
+    "en": "Fixes the app closing while downloading an update. To check it installed: Settings → About → Version."
   }
 }

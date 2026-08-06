@@ -1,12 +1,12 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1-debug",
-  "downloadUrl": "https://github.com/TheMagin/driver-finance-releases/releases/download/v1.0.1/driverfinance-1.0.1-debug.apk",
+  "versionCode": 3,
+  "versionName": "1.0.2-debug",
+  "downloadUrl": "https://github.com/TheMagin/driver-finance-releases/releases/download/v1.0.2/driverfinance-1.0.2-debug.apk",
   "sizeBytes": 16040024,
-  "sha256": "0d9f4732340394cf3c5301607b2556b86a6d46920b3fd5d1ba45309de3b73564",
+  "sha256": "e793e29a8e02c7512d79f6e74a90e71aabbf32e9219728593a0b402954a8e679",
   "minSdk": 26,
   "releaseNotes": {
-    "es": "Ajustes tiene una sección «Acerca de» que muestra la versión instalada.",
-    "en": "Settings now has an “About” section showing the installed version."
+    "es": "Prueba del canal de actualización. Para comprobar que se instaló: Ajustes → Acerca de → Versión.",
+    "en": "Update-channel test. To check it installed: Settings → About → Version."
   }
 }
